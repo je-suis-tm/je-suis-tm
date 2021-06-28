@@ -1,4 +1,4 @@
-### My rating on Eurovision 2020
+### My vote on Eurovision 2020
 
 1. Voices - 🇸🇪
 2. Adrenalina - 🇸🇲
