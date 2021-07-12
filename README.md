@@ -4,7 +4,7 @@
 2. Adrenalina - 🇸🇲
 3. Fallen Angel - 🇳🇴
 
-### I will skip my forecast on UEFA :eu: 2020 ma Forza Abbruzzi 🇮🇹 et à la prochaine les Bleus 🇫🇷!
+### UEFA :eu: 2020 🏆 Azzurri 🇮🇹 !!!!!!!
 
 &nbsp;
 &nbsp;
