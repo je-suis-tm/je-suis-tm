@@ -4,8 +4,6 @@
 2. Adrenalina - 🇸🇲
 3. Fallen Angel - 🇳🇴
 
-### UEFA :eu: 2020 🏆 Azzurri 🇮🇹 !!!!!!!
-
 &nbsp;
 &nbsp;
 
