@@ -1,4 +1,4 @@
-### Je vais être absente du 24 au 22 aout inclusivement.
+### Je vais être absent du 24 au 29 aout inclusivement. I will be away from August 24th to 29th. 
 
 ### 👋 there
 
