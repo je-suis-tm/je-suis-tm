@@ -1,7 +1,4 @@
-### I was in a virtual hackathon last week. I led a team of 6️⃣ people from diverse background to construct a robust NLP model on AWS to extract technical information from SEC documents filed by public traded commodity companies. We managed to win 🏆 on people's choice and 3rd place on panel's choice. It has been a while since I had to work 40 hours out of 48 😪 I was pretty proud of my team and our achievement but three days of hackathon indicates I have a lot of project milestones to catch up this week 😅 Bear with me if I seem to be slow to respond and fully occupied by work. Thank you!
-
-&nbsp;
-&nbsp;
+### Je vais être absente du 24 au 22 aout inclusivement.
 
 ### 👋 there
 
