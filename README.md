@@ -1,5 +1,3 @@
-### Je vais être absent du 24 au 29 Août inclusivement. I will be away from August 24 to 29. 
-
 ### 👋 there
 
 **I truly believe in Bitcoin and decentralization despite the carbon footprint (still smaller than 🏦). Central banks are crooked and they only serve the rich :thumbsdown: So buy the dip and hodl 💎 🙌 💎 (the same applies to Robinhood)**
