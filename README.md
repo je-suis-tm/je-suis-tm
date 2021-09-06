@@ -1,11 +1,11 @@
 ### 👋 there
 
-**I am currently looking for PhD positions with funding in applied/computational mathematics and statistics. My preferable location would be north/west Europe as I would love to stay close to my family. My domains of interest would be**
+**I am currently looking for PhD positions with funding in applied/computational mathematics and statistics. My preferable location would be north/west Europe (including UK) as I would love to stay close to my family. My domains of interest would be**
 
-* Bayesian Statistics: Latent Variables, Statistical Modeling, Statistical Inference;
-* Graph Theory: Complex System, Agent-based Modelling, Application in Ecology and Epidemiology;
-* Machine Learning: Matrix Completion, Recommender System, Feature Selection, Causality Detection;
-* Operations Research: Convex Optimization, Network Analysis, Game Theory;
+* **Bayesian Statistics:** Latent Variables, Statistical Modeling, Statistical Inference;
+* **Graph Theory:** Complex System, Agent-based Modelling, Application in Ecology and Epidemiology;
+* **Machine Learning:** Matrix Completion, Recommender System, Feature Selection, Causality Detection;
+* **Operations Research:** Convex Optimization, Network Analysis, Game Theory;
  
 **If you happen to know any vacancy or anyone who shares the same enthusiasm, please kindly refer to me, thank you!**
 
