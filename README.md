@@ -7,7 +7,7 @@
 * **Machine Learning:** Matrix Completion, Recommender System, Feature Selection, Causality Detection;
 * **Operations Research:** Convex Optimization, Network Analysis, Game Theory;
  
-**If you happen to know any vacancy or anyone who shares the same enthusiasm, please kindly refer to me, thank you!**
+**If you happen to know any vacancy or anyone who shares the same enthusiasm, please kindly refer to <a href=https://github.com/je-suis-tm/je-suis-tm/issues/new/choose>me</a>, thank you!**
 
 **I truly believe in Bitcoin and decentralization despite the carbon footprint (still smaller than 🏦). Central banks are crooked and they only serve the rich :thumbsdown: Hence, HODL 💎 🙌 💎 FYI, do you know bitcoin has higher Sharpe ratio than S&P 500 from this <a href=https://charts.woobull.com/bitcoin-risk-adjusted-return>chart</a>? I was skeptical at first until I ran my own test on the <a href=https://github.com/je-suis-tm/quant-trading/blob/master/data/bitcoin.csv>dataset</a> from Bloomberg terminal. Well, bitcoin beats conventional assets in their own game so they say <a href=https://www.quora.com/Does-the-Sharpe-ratio-work-with-Bitcoin>the benchmark should not apply to bitcoin</a> :satisfied: Obviously those who loathe bitcoin are the same group of people who rig the game and expect you to pay 20/2 for their actively managed funds. Thanks but no thanks :triumph:**
 
