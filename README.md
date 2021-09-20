@@ -15,4 +15,8 @@
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
+**I have taken so many vaccines throughout my life, still, I strongly oppose mandatory vaccination (soon I will be labelled as anti-vaxxer 🤷). People should be given a choice even though they fail to make the most sensible one most of the times 😆 Sure, the low vaccination rate will drag the pandemic much longer which we are really sick of. But the greater good always comes with a price. To eradicate COVID-19, why don't we put the whole world in lockdown for a month? The vital question is, does the end justify the means 😕**
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 **Thank you for visiting :innocent: I really appreciate how many :star: you guys have given to <a href=https://github.com/je-suis-tm/quant-trading>Quant Trading</a>. For those of you who crave for more intellectual challenges, check out some other respositories such as <a href=https://github.com/je-suis-tm/graph-theory>Graph Theory</a> and <a href=https://github.com/je-suis-tm/machine-learning>Machine Learning</a>, you won't be disappointed :smirk: If you have any questions or thoughts, feel free to raise issues in the repository so we can start :speech_balloon: I genuinely enjoy conversations with people from diverse background and they never stop to inspire me to develop new perspectives to tackle challenges in life :muscle:**
