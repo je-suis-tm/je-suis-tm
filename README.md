@@ -15,7 +15,7 @@
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-**I have taken so many vaccines throughout my life, still, I strongly oppose mandatory vaccination (soon I will be labelled as anti-vaxxer 🤷). People should be given a choice even though they fail to make the most sensible one most of the times 😆 Sure, the low vaccination rate will drag the pandemic much longer which we are really sick of. But the greater good always comes with a price. To eradicate COVID-19, why don't we put the whole world in lockdown for a month? The vital question is, does the end justify the means 😕**
+**I have taken so many vaccines throughout my life, still, I strongly oppose mandatory vaccination (soon I will be labelled as anti-vaxxer 🤷). People should be given a choice even though they fail to make the most sensible one most of the times 😆 Sure, the low vaccination rate will drag the pandemic much longer which we are really sick of. But the greater good always comes with a price. Say the world is serious on eradicating COVID-19, why not put the whole 🗺️ in lockdown for a month? The vital question is, does the end justify the means 😕**
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
