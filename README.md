@@ -4,6 +4,12 @@
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
+### What have I been up to lately?
+
+**I know many of you are big fans of my repositories. A lot of you are demanding more options trading strategy in quant trading. Some of you are waiting for the next big project in graph theory. Some of you are asking if I will implement more avant-garde techniques in machine learning. Apologies for the late replies and late deliveries :disappointed: Recently I have been caught up with a lot of office politics and trying to cope with the great resignation (the middle management should seriously look into the mirror and reflect why). Well, now I am working on a new repository, <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding>game modding</a>! If you are a die-hard fan of Sid Meier’s Civilization VI: New Frontier Pass, make sure you check out my new repository! I am totally obsessed with automating the modding process via Python. I used to create mods for Grand Theft Auto: Vice City in my youth. That was my entrepôt of programming – hacking into the game engine to create a super cheater! Now I am back where I started. Excited to share this with everyone who will spend Christmas and New Year playing ONE MORE TURN :skull:**
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 ### 👋 there
 
 **I am currently looking for PhD positions with funding in applied/computational mathematics and statistics. My preferable location would be north/west Europe (including UK) as I would love to stay close to my family. My domains of interest would be**
