@@ -1,6 +1,4 @@
-### Merry :santa: and Happy :two: :zero: :two: :two: to everyone across the globe! Hope you stay safe and healthy and maybe off to :moon: 
-
-**It has been two years of endless COVID variants. I haven't seen many of my friends and families overseas for two fucking years and I am sure many of you share the same situation. Will COVID end at Ω variant or we run out of Greek letters? The world cannot be in lockdown twice a year. We must move on. We joked about herd immunity at the beginning and now our wishes come true. Unfortunately, herd immunity is the only way forward with or without vaccines. We should not be frightened by the daily numbers any more because many including my colleagues are asymptotic or merely facing a "common cold". Optimistically, I am seeing the light at the end of tunnel, which is next year. We all hope it is the case, don't we all?**
+### Sorry guys, I have been sick for the past few weeks (I hope it was COVID but symptoms did not really match). I have a lot to catch up so please be patient with me.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
