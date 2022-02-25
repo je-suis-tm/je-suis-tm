@@ -1,4 +1,4 @@
-### Sorry guys, I have been sick for the past few weeks (I hope it was COVID but symptoms did not really match). I have a lot to catch up so please be patient with me.
+# Sic semper evello mortem tyrannis 🇺🇦 ☮️
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
