@@ -2,23 +2,6 @@
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-### Project Announcement :tada: Since I have not updated the most popular repository for a long while, I am gonna implement 10 option trading strategies in the next 10 days to show my gratitude for the followers!
-
-* Covered Call
-* Married Put
-* Bull Call Spread
-* Protective Collar
-* Iron Condor
-* Iron Butterfly
-* Long Synthetic Future
-* Diagonal Call Spread
-* Calendar Call Spread
-* Inverse Call Broken Wing
-
-### :trollface: Ofc, Happy April Fool 😆 But I do have a plan for a new quantitative trading project, it will be a portfolio optimization scheme based on Black-Litterman model!
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++
-
 ### 👋 there
 
 **I am currently looking for PhD positions with funding in applied/computational mathematics and statistics. My preferable location would be north/west Europe (including UK) as I would love to stay close to my family. My domains of interest would be**
