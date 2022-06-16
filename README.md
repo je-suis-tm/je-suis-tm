@@ -4,7 +4,7 @@
 
 ### 👋 there
 
-**I am currently looking for PhD positions with funding in applied/computational mathematics and statistics. My preferable location would be north/west Europe (including UK) as I would love to stay close to my family. My domains of interest would be**
+**I am currently looking for PhD positions with funding in applied/computational mathematics and statistics. My domains of interest would be**
 
 * **Bayesian Statistics:** Latent Variables, Statistical Modeling, Statistical Inference;
 * **Graph Theory:** Complex System, Agent-based Modelling, Application in Ecology and Epidemiology;
