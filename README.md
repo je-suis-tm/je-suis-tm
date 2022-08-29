@@ -4,14 +4,14 @@
 
 ### 👋 there
 
-**I am currently looking for PhD positions with funding in applied/computational mathematics and statistics. My domains of interest would be**
+**My domains of interest would be**
 
 * **Bayesian Statistics:** Latent Variables, Statistical Modeling, Statistical Inference;
 * **Graph Theory:** Complex System, Agent-based Modelling, Application in Ecology and Epidemiology;
 * **Machine Learning:** Matrix Completion, Recommender System, Feature Selection, Causality Detection;
 * **Operations Research:** Convex Optimization, Network Analysis, Game Theory;
  
-**If you happen to know any vacancy or anyone who shares the same enthusiasm, please kindly refer to <a href=https://github.com/je-suis-tm/je-suis-tm/issues/new/choose>me</a>, thank you!**
+**If you look for collaboration in these fields or happen to know anyone who shares the same enthusiasm, please kindly refer to <a href=https://github.com/je-suis-tm/je-suis-tm/issues/new/choose>me</a>, thank you!**
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
