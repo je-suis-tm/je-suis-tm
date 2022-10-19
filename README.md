@@ -1,4 +1,4 @@
-# Apologies for lack of progress lately. I have been back and forth between :singapore: and :australia: for the past two months. Cheers to fully open border. I will settle down soon and work on more projects.
+# Apologies for lack of progress lately. I have been back and forth between :singapore: and :australia: for the past two months. :partying_face: to fully open border. I will settle down soon and work on more projects.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
