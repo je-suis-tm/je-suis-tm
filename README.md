@@ -1,4 +1,4 @@
-# Remember Her Majesty :uk: :crown:
+# Apologies for lack of progress lately. I have been back and forth between Singapore and Australia for the past two months. I will settle down and work on more projects ASAP.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
