@@ -1,7 +1,3 @@
-# Just recover from COVID. Give me some time to regain my strength and work on some interesting projects.
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++
-
 ### 👋 there
 
 **My domains of interest would be**
