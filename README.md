@@ -1,6 +1,6 @@
 ### 👋 there
 
-**Recently I have been working on finetuning text-to-image and built a few QLoRAs. Apologies as I am spending less time working on GitHub. Feel free to check out some of the works I have done and do not hesitate to follow me on <a href=https://huggingface.co/je-suis-tm>HuggingFace</a> 🤗**
+**Recently I have been working on finetuning text-to-image and built a few QLoRAs. Apologies ☠️ as I am spending less time working on GitHub. Feel free to check out some of the works I have done 🔥 and do not hesitate to follow me on <a href=https://huggingface.co/je-suis-tm>HuggingFace</a> 🤗**
 
 * <a href=https://huggingface.co/je-suis-tm/monica_bellucci_lora_flux_nf4>Monica Bellucci</a>
 
