@@ -1,13 +1,8 @@
 ### 👋 there
 
-**My domains of interest would be**
+**Recently I have been working on finetuning text-to-image and built a few QLoRAs. Apologies as I am spending less time working on GitHub. Feel free to check out some of the works I have done and do not hesitate to follow me on <a href=https://huggingface.co/je-suis-tm>HuggingFace</a> 🤗**
 
-* **Bayesian Statistics:** Latent Variables, Statistical Modeling, Statistical Inference;
-* **Graph Theory:** Complex System, Agent-based Modelling, Application in Ecology and Epidemiology;
-* **Machine Learning:** Matrix Completion, Recommender System, Feature Selection, Causality Detection;
-* **Operations Research:** Convex Optimization, Network Analysis, Game Theory;
- 
-**If you look for collaboration in these fields or happen to know anyone who shares the same enthusiasm, please kindly refer to <a href=https://github.com/je-suis-tm/je-suis-tm/issues/new/choose>me</a>, thank you!**
+* <a href=https://huggingface.co/je-suis-tm/monica_bellucci_lora_flux_nf4>Monica Bellucci</a>
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
