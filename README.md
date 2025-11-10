@@ -2,8 +2,15 @@
 
 **Recently I have been working on finetuning text-to-image and built a few QLoRAs. Apologies ☠️ as I am spending less time working on GitHub. Feel free to check out some of the works I have done 🔥 and do not hesitate to follow me on <a href=https://huggingface.co/je-suis-tm>HuggingFace</a> 🤗**
 
+* <a href=https://huggingface.co/je-suis-tm/abigail_spencer_lora_flux_nf4>Abigail Spencer</a>
+* <a href=https://huggingface.co/je-suis-tm/brie_larson_lora_flux_nf4>Brie Larson</a>
+* <a href=https://huggingface.co/je-suis-tm/corinna_kopf_lora_flux_nf4>Corinna Kopf</a>
+* <a href=https://huggingface.co/je-suis-tm/florence_pugh_lora_flux_nf4>Florence Pugh</a>
 * <a href=https://huggingface.co/je-suis-tm/marisa_abela_lora_flux_nf4>Marisa Abela</a>
+* <a href=https://huggingface.co/je-suis-tm/melanie_laurent_lora_flux_nf4>Melanie Laurent</a>
 * <a href=https://huggingface.co/je-suis-tm/monica_bellucci_lora_flux_nf4>Monica Bellucci</a>
+* <a href=https://huggingface.co/je-suis-tm/rooney_mara_lora_flux_nf4>Rooney Mara</a>
+* <a href=https://huggingface.co/je-suis-tm/sky_bri_lora_flux_nf4>Sky Bri</a>
 * <a href=https://huggingface.co/je-suis-tm/vanessa_kirby_lora_flux_nf4>Vanessa Kirby</a>
 
 
