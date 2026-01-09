@@ -2,9 +2,9 @@
 
 **Recently I have been working on finetuning text-to-image and built a few LoRAs. Apologies ☠️ as I am spending less time working on GitHub. Feel free to check out some of the works I have done 🔥 and do not hesitate to follow me on <a href=https://huggingface.co/je-suis-tm/collections>HuggingFace</a> 🤗**
 
-* <a href=https://huggingface.co/collections/je-suis-tm/flux2-dev-nf4-qlora>Mostly style QLoRAs like Pachu Torres and Wong Kar Wai for Flux.2</a>
-* <a href=https://huggingface.co/collections/je-suis-tm/flux1-dev-lora>Mostly style LoRAs like Pachu Torres and Wong Kar Wai for Flux.1</a>
-* <a href=https://huggingface.co/collections/je-suis-tm/flux1-dev-nf4-qlora>Mostly celebrities QLoRAs like Aoi Sola, Brie Larson and Dojo Cat for Flux.1</a>
+* Mostly style QLoRAs like Pachu Torres and Wong Kar Wai for <a href=https://huggingface.co/collections/je-suis-tm/flux2-dev-nf4-qlora>Flux.2</a>
+* Mostly style LoRAs like Pachu Torres and Wong Kar Wai for <a href=https://huggingface.co/collections/je-suis-tm/flux1-dev-lora>Flux.1</a>
+* Mostly celebrities QLoRAs like Aoi Sola, Brie Larson and Dojo Cat for <a href=https://huggingface.co/collections/je-suis-tm/flux1-dev-nf4-qlora>Flux.1</a>
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
